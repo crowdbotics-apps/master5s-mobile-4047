@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT master5s_mobile_4047.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'master5s_mobile_4047'
+
+include ':app'
